@@ -1,0 +1,4 @@
+Fibroblast:0
+Endothelial cell:1
+Smooth muscle cell:2
+Macrophage:3

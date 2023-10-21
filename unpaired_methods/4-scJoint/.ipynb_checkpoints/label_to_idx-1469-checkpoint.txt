@@ -1,0 +1,5 @@
+Ex23_Cux1 0
+Ex23_Cntn2 1
+IP_Eomes 2
+IP_Gadd45g 3
+IP_Hmgn2 4
