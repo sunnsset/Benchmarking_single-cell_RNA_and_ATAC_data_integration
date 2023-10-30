@@ -5,11 +5,11 @@ Each method is classified according to their category mentioned in the paper:
 
 __paired methods__:
 
-scMVP, MultiVI
+scMVP, MOFA+
 
 __paired-guided methods__:
 
-MOFA+, Cobolt
+MultiVI, Cobolt
 
 __unpaired methods__:
 
