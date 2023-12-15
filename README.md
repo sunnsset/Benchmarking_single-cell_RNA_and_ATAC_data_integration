@@ -22,4 +22,4 @@ Within each method's folder, run the file *test_methodName-datasetName.ipynb* to
 Within the *test_accuracy* folder, run the file *test_accuracy.ipynb* to calculate detailed metrics and visualize the result.
 
 ## Dataset names:
-*1469* is corresponding to dataset-T mentioned in the paper, *P0* is corresponding dataset-P, *uterus* is corresponding to dataset-U.
+*1469* is corresponding to dataset-T mentioned in the paper, *P0* is corresponding to dataset-P, *uterus* is corresponding to dataset-U.
