@@ -1,6 +1,7 @@
 # Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data
 
 This is the code for paper: *Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data*.
+
 doi: https://doi.org/10.1101/2023.11.15.564963.
 
 ## Methods:
