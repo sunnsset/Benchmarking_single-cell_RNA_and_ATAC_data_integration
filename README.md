@@ -28,4 +28,4 @@ Within the *test_accuracy* folder, run the file *test_accuracy.ipynb* to calcula
 ## Dataset names:
 *1469* is corresponding to dataset-T mentioned in the paper, *P0* is corresponding to dataset-P, *uterus* is corresponding to dataset-U.
 
-The related data could be downloaded from https://www.alipan.com/s/AYbCNy1WPgj.
+The related data could be downloaded from https://drive.google.com/drive/folders/1GA3CS_zbQcG9JRsXSHYpLKz3XsEPs936?usp=drive_link or https://www.alipan.com/s/AYbCNy1WPgj.
